@@ -1,3 +1,6 @@
+- ## [NOOBSって何！？Raspbianの違いとは？](https://vasco-blog.com/blog/2019/07/06/deference-noobs-and-raspbian/)
+### 必要なパッケージに合わせてOSを選択すると良い
+
 - ## あまり必要としないパッケージ(NOOBS)
     - パッケージ一覧
         - wolfram-engine  
